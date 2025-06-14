@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1a2340;
+  margin-bottom: 32px;
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+.icon.material-icons {
+  font-family: 'Material Icons';
+  font-size: 2.2rem;
+  vertical-align: middle;
+  margin-right: 8px;
+  color: #1a2340;
+}
